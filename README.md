@@ -1,6 +1,9 @@
-### Hi there 👋 I'm studying AI & Data Analysis
+### 👋 Hi there, I'm studying AI & Data Analysis
 
-### Awards
+### 🏅 Awards
+- 📈 NH 투자증권 빅데이터 경진대회 2023 대상(1등)
+- 🦷 바이오헬스 AI 경진대회 (사랑니 발치 위험도 예측) 우수상(2등)
+- 🚘 데이콘 대구 교통사고 피해 예측 AI 경진대회 (?등)
 
 <!--
 **newoong/newoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
