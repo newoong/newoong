@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm studying AI & Data Analysis
+
+### Awards
 
 <!--
 **newoong/newoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
