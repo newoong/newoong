@@ -5,7 +5,7 @@
 - 🦷 바이오헬스 AI 경진대회 (사랑니 발치 위험도 예측) 우수상(2등)
 - 🚘 데이콘 대구 교통사고 피해 예측 AI 경진대회 (?등)
 
-### 💻 Work Experience
+### 💻 Experience
 - 🏫 Hongik University PHM Lab
    > Joint Research with Hyundai Motor for DTC prediction
 
