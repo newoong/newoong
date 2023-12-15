@@ -10,9 +10,9 @@
    > Joint Research with Hyundai Motor for DTC prediction
 
    > Thesis
-   > > A study on unmanned combat vehicle path planning for collision avoidance with enemy forces in dynamic situations,  JCDE,2023
+   > > [A study on unmanned combat vehicle path planning for collision avoidance with enemy forces in dynamic situations,  JCDE,2023](https://academic.oup.com/jcde/article/10/6/2251/7395013)
 
-   > > 차량 DTC 고장 예측을 위한 딥러닝 적용 사례 연구, CDE,2023
+   > > [차량 DTC 고장 예측을 위한 딥러닝 적용 사례 연구, CDE,2023](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11513761&nodeId=NODE11513761&medaTypeCode=185005&locale=ko&foreignIpYn=N&articleTitle=%EC%B0%A8%EB%9F%89+DTC+%EA%B3%A0%EC%9E%A5+%EC%98%88%EC%B8%A1%EC%9D%84+%EC%9C%84%ED%95%9C+%EB%94%A5%EB%9F%AC%EB%8B%9D+%EC%A0%81%EC%9A%A9+%EC%82%AC%EB%A1%80+%EC%97%B0%EA%B5%AC&articleTitleEn=A+Case+Study+on+applying+Deep+Learning+Methods+to+Predict+Vehicle+DTC+Faults&language=ko_KR&hasTopBanner=true)
 - 🧠 KIST(Korea Institute of Science & Technology) AI Engineer field trainee
   > EEG & Audio Data
 
