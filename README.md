@@ -6,7 +6,7 @@
 - 🦷 바이오헬스 AI 경진대회 (사랑니 발치 위험도 예측) 우수상(2등)
 
 ### 💻 Experience
-- 🏫 Hongik University PHM Lab (undergraduate research student)
+- 🏫 Hongik University PHM Lab (undergraduate)
    > Joint Research with Hyundai Motor for DTC prediction
 
    > Thesis
